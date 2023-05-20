@@ -1,0 +1,8 @@
+C:\Users\Marko29\source\repos\Smooth_Sentences\Smooth_Sentences\bin\Debug\Smooth_Sentences.exe.config
+C:\Users\Marko29\source\repos\Smooth_Sentences\Smooth_Sentences\bin\Debug\Smooth_Sentences.exe
+C:\Users\Marko29\source\repos\Smooth_Sentences\Smooth_Sentences\bin\Debug\Smooth_Sentences.pdb
+C:\Users\Marko29\source\repos\Smooth_Sentences\Smooth_Sentences\obj\Debug\Smooth_Sentences.csproj.AssemblyReference.cache
+C:\Users\Marko29\source\repos\Smooth_Sentences\Smooth_Sentences\obj\Debug\Smooth_Sentences.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko29\source\repos\Smooth_Sentences\Smooth_Sentences\obj\Debug\Smooth_Sentences.csproj.CoreCompileInputs.cache
+C:\Users\Marko29\source\repos\Smooth_Sentences\Smooth_Sentences\obj\Debug\Smooth_Sentences.exe
+C:\Users\Marko29\source\repos\Smooth_Sentences\Smooth_Sentences\obj\Debug\Smooth_Sentences.pdb
